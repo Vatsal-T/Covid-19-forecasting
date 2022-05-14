@@ -21,6 +21,5 @@ out the data for India only.
 
 
 NOTE:-
-1) DS250_Project.ipynb: Run the file DS250_Project.ipynb
+1) code.ipynb: Run the file code.ipynb
 2) Final_Forecasting.png: See the final graph of forecasting for 15 days
-3) Covid-19_Analysis_presentation.pdf: See the pdf to understand the project in depth.
